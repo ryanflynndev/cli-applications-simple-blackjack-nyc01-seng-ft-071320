@@ -67,6 +67,10 @@ end
 
 def runner
   # code runner here
+  welcome 
+  initial_round
+  hit?
+  until card_total
 end
 
 
